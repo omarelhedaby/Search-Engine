@@ -31,7 +31,9 @@
 ![](screenshots/Capture2.PNG)
 ![](screenshots/Capture3.PNG)
 :-----------------------------:|
-![](screenshots/Capture4.jpeg) |![](screenshots/Capture5.jpeg)
-![](screenshots/Capture6.jpeg) |![](screenshots/Capture7.jpeg)
+![](screenshots/Capture4.jpeg)
+![](screenshots/Capture5.jpeg)
+![](screenshots/Capture6.jpeg)
+![](screenshots/Capture7.jpeg)
 
 
