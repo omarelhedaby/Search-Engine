@@ -17,6 +17,8 @@
 
 ##Indexer
 
+> Extract indexer(2119).rar (Contains 2119 HTML indexed - 3.6 M entry of documents in json format)
+
 > Instal MongoDB plugin for java in your editor
 
 > Change file path for Crawler function and Html Reading parts in the "Indexer\src\main\java\org\example\APP.java"
