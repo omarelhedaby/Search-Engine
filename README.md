@@ -1,6 +1,10 @@
 # Search-Engine
 
 ## Website
-> Written in React 
-> To Run
-> >npm install to install node_modules first
+>Written in React
+
+>Open in vs code
+
+>npm install
+
+>npm run start
