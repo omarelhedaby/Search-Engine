@@ -1,19 +1,20 @@
 # Search-Engine
 
 ## Website
+
 >Written in React
 
->Open in vs code
+>Disable CORS in your browser to be able to send requests to apache tomcat server
 
->npm install
+## Server
 
->npm run start
+> Java Servlets that is used to send and recieve json requests with website and accessing database
 
->Disable CORS to be able to interact with apache server using Google Chrome Plugin
-
-## Apache Server
+## Database
 
 >in WEB_INF add a folder lib and add the jar files of mongo-java-driver-3.4.3 and opennlp-tools-1.9.3
+
+>suggestions.json is a mongodb collection with suggestions stored by user and their frequency
 
 ##Indexer
 
@@ -28,3 +29,4 @@
 # Screenshots
 ![](screenshots/capture1.PNG) |![](screenshots/capture2.PNG) |![](screenshots/capture3.PNG)
 :-----------------------------:|:-----------------------------:|:-----------------------------:
+
