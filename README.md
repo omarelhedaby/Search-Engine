@@ -27,6 +27,6 @@
 > Run code to generate the Database documents
 
 # Screenshots
-![](screenshots/capture1.PNG) |![](screenshots/capture2.PNG) |![](screenshots/capture3.PNG)
+![](screenshots/Capture1.PNG) |![](screenshots/Capture2.PNG) |![](screenshots/Capture3.PNG)
 :-----------------------------:|:-----------------------------:|:-----------------------------:
 
