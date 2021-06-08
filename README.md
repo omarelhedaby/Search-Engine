@@ -8,4 +8,8 @@
 
 ## Server
 
->Add lib folder in WEB_INF with following jar files opennlp-tools-1.9.3 mongo-java-driver-3.4.3
+> Java Servlets that is used to send and recieve json requests with website and accessing database
+
+## Database
+
+>suggestions.json is a mongodb collection with suggestions stored by user and their frequency
