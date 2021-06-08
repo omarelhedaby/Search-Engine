@@ -16,7 +16,7 @@
 
 >suggestions.json is a mongodb collection with suggestions stored by user and their frequency
 
-##Indexer
+## Indexer
 
 > Extract indexer(2119).rar (Contains 2119 HTML indexed - 3.6 M entry of documents in json format)
 
